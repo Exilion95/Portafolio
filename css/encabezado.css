@@ -1,0 +1,29 @@
+.encabezado{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+.encabezado__titulo{
+    font-family: 'Raleway';
+    font-weight: 700;
+    color: #464646;
+}
+
+.encabezado__lista{
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5rem;
+}
+
+.encabezado__items{
+    font-family: 'Raleway';
+    font-weight: 500;
+    text-decoration: none;
+    color: #464646;
+}
+
+.encabezado__email{
+    font-weight: 700;
+}
