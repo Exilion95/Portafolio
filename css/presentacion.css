@@ -1,7 +1,7 @@
 .presentacion{
     display: flex;
     flex-direction: row;
-    padding: 1.5rem;
+    padding: 55px;
     align-items: center;
     gap: 3rem;
 }

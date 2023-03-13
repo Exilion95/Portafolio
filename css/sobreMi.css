@@ -1,0 +1,21 @@
+.sobreMi{
+    display: flex;
+    flex-direction: column;
+    padding: 55px;
+    gap: 20px;
+    background-color: #EAF2FD;
+}
+
+.sobreMi__titulo{
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.sobreMi__Parrafo{
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    color: #464646;
+}
